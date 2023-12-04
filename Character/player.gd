@@ -61,6 +61,7 @@ func  update_animation():
 			animated_sprite.play("run")
 		elif attack_animation :
 			animated_sprite.play("attack")
+			print(555)
 		else:
 			animated_sprite.play("idle")
 			#ท่าทางตอนตัวลละครอยู่นิ่งๆ
