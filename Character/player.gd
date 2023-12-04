@@ -71,7 +71,6 @@ func update_facing_direction():
 		animated_sprite.flip_h = false
 	elif direction.x < 0:
 		animated_sprite.flip_h  = true
-		print(1234)
 func jump():
 		velocity.y = JUMP_VELOCITY
 		animated_sprite.play("jump")
