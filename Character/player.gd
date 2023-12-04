@@ -61,13 +61,6 @@ func  update_animation():
 			animated_sprite.play("run")
 		elif attack_animation :
 			animated_sprite.play("attack")
-<<<<<<< Updated upstream
-=======
-<<<<<<< Updated upstream
-=======
-			print(222)
->>>>>>> Stashed changes
->>>>>>> Stashed changes
 		else:
 			animated_sprite.play("idle")
 			#ท่าทางตอนตัวลละครอยู่นิ่งๆ
