@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://crxmlq0e1r5ow"
-path="res://.godot/imported/Hurt.png-3ee889a774931b33865724e4995f35b6.ctex"
+path="res://.godot/imported/Hurt.png-f500fb8a46738aa956def3bfeb1b2eff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/Legacy-Fantasy - High Forest 2.3/Character/hurt/Hurt.png"
-dest_files=["res://.godot/imported/Hurt.png-3ee889a774931b33865724e4995f35b6.ctex"]
+source_file="res://Art/sanity_art/Character/hurt/Hurt.png"
+dest_files=["res://.godot/imported/Hurt.png-f500fb8a46738aa956def3bfeb1b2eff.ctex"]
 
 [params]
 

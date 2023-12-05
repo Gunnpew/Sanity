@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2ice0ljcq4g1"
-path="res://.godot/imported/Attack-01-Sheet.png-b576b76d94a60e8262d87fecce044e49.ctex"
+path="res://.godot/imported/Attack-01-Sheet.png-b46cf080fd0b62b7ceebf1560c053b61.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/Legacy-Fantasy - High Forest 2.3/Character/Attack-01/Attack-01-Sheet.png"
-dest_files=["res://.godot/imported/Attack-01-Sheet.png-b576b76d94a60e8262d87fecce044e49.ctex"]
+source_file="res://Art/sanity_art/Character/Attack-01/Attack-01-Sheet.png"
+dest_files=["res://.godot/imported/Attack-01-Sheet.png-b46cf080fd0b62b7ceebf1560c053b61.ctex"]
 
 [params]
 

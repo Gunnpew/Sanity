@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://w7rox3aobu2n"
-path="res://.godot/imported/Hit-Sheet-White.png-fed05d9f87736971229bf90aa844f66b.ctex"
+path="res://.godot/imported/Hit-Sheet-White.png-076e20455fe0f156560dfc156610c785.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Hit-Vanish/Hit-Sheet-White.png"
-dest_files=["res://.godot/imported/Hit-Sheet-White.png-fed05d9f87736971229bf90aa844f66b.ctex"]
+source_file="res://Art/sanity_art/Mob/Boar/Hit-Vanish/Hit-Sheet-White.png"
+dest_files=["res://.godot/imported/Hit-Sheet-White.png-076e20455fe0f156560dfc156610c785.ctex"]
 
 [params]
 

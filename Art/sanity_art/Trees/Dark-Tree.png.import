@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://1lbrxcjpj53n"
-path="res://.godot/imported/Dark-Tree.png-7905aab53284a21943ff34c0885026c3.ctex"
+path="res://.godot/imported/Dark-Tree.png-ba6483f4aa7d34c357159e41d4f03a8d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/Legacy-Fantasy - High Forest 2.3/Trees/Dark-Tree.png"
-dest_files=["res://.godot/imported/Dark-Tree.png-7905aab53284a21943ff34c0885026c3.ctex"]
+source_file="res://Art/sanity_art/Trees/Dark-Tree.png"
+dest_files=["res://.godot/imported/Dark-Tree.png-ba6483f4aa7d34c357159e41d4f03a8d.ctex"]
 
 [params]
 
